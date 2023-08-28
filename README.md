@@ -8,7 +8,7 @@ Estos proyectos definiran lo que aprendo con react y la combinacion con docker.
 
 En el primer caso he creado un proyecto para javascript puro
 
-![Java script puro](appJavascriptPuro.png)
+![All text](appJavascriptPuro.png)
 
 BIBLIOGRAFIA
 ---------------------------------------
